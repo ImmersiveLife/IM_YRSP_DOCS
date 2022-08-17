@@ -35,3 +35,6 @@
   * [Прикладные](poleznosti/informacionnye-sistemy/prikladnye.md)
 * [Библиотеки ассетов и компонентов ЦИМ](poleznosti/biblioteki-assetov-i-komponentov-cim.md)
 * [Глоссарий](poleznosti/glossarii.md)
+* [Каталог проектов](poleznosti/katalog-proektov/README.md)
+  * [Комплексные цифровые модели](poleznosti/katalog-proektov/kompleksnye-cifrovye-modeli.md)
+  * [Оформление. Графика. Визуал](poleznosti/katalog-proektov/oformlenie.-grafika.-vizual.md)
