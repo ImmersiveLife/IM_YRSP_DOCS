@@ -6,19 +6,22 @@
 
 * [😎 Компания в лицах](komanda/kompaniya-v-licakh.md)
 
-## Стандарты
+## Стандарты <a href="#STANDARTS" id="STANDARTS"></a>
 
-* [Общие принципы работы](standarty/obshie-principy-raboty.md)
-* [📤 00. Эскизный проект и Технико-экономическое обоснование (ТЭО)](standarty/00.-eskiznyi-proekt-i-tekhniko-ekonomicheskoe-obosnovanie-teo.md)
-* [📩 01. Исходные данные и изыскания](standarty/01.-iskhodnye-dannye-i-izyskaniya.md)
-* [⚙ 02. Проектирование](standarty/02.-proektirovanie/README.md)
-  * [Стандарт моделирования Зданий (BIM)](standarty/02.-proektirovanie/standart-modelirovaniya-zdanii-bim.md)
-  * [Стандарт моделирования Территорий (CIM)](standarty/02.-proektirovanie/standart-modelirovaniya-territorii-cim.md)
-  * [Глоссарий](standarty/02.-proektirovanie/glossarii.md)
-* [🧾 П1. Карта общих параметров](standarty/p1.-karta-obshikh-parametrov.md)
-* [🎁 П2. Шаблоны](standarty/p2.-shablony/README.md)
-  * [Технические задания](standarty/p2.-shablony/tekhnicheskie-zadaniya/README.md)
-    * [Информационные требования Заказчика](standarty/p2.-shablony/tekhnicheskie-zadaniya/informacionnye-trebovaniya-zakazchika.md)
+* [Общие принципы работы](STANDARTS/obshie-principy-raboty.md)
+* [📤 01. Эскизный проект и Технико-экономическое обоснование (ТЭО)](STANDARTS/10\_FEASIBILITYStudy.md)
+* [📩 02. Исходные данные и изыскания](STANDARTS/20\_SURVEYS.md)
+* [⚙ 02. Проектирование](STANDARTS/02\_DESIGN/README.md)
+  * [Стандарт моделирования Зданий (BIM)](STANDARTS/02\_DESIGN/IM\_BIM.md)
+  * [Стандарт моделирования Территорий (CIM)](STANDARTS/02\_DESIGN/IM\_GIS.md)
+  * [Глоссарий](STANDARTS/02\_DESIGN/TermsAndDefinitions.md)
+  * [Приложения](STANDARTS/02\_DESIGN/APPENDIX/README.md)
+    * [🧾 П1. Карта общих параметров](STANDARTS/02\_DESIGN/APPENDIX/EIR\_001\_SharedParametersMap.md)
+    * [🎁 П2. Шаблоны](STANDARTS/02\_DESIGN/APPENDIX/ASSETS\_TEMPLATES/README.md)
+      * [Технические задания](STANDARTS/02\_DESIGN/APPENDIX/ASSETS\_TEMPLATES/tekhnicheskie-zadaniya/README.md)
+        * [Информационные требования Заказчика](STANDARTS/02\_DESIGN/APPENDIX/ASSETS\_TEMPLATES/tekhnicheskie-zadaniya/informacionnye-trebovaniya-zakazchika.md)
+  * [Раздаточный материал](STANDARTS/02\_DESIGN/ForContragentsRelease.md)
+* [🏗 03. ПТО и строительство](STANDARTS/30\_BUILDINGEXEC.md)
 
 ## Стэк технологий
 
