@@ -2,9 +2,11 @@
 
 * [Привет](README.md)
 
-## Команда
+## Команда и взаимодействие <a href="#info_teamCollaborate" id="info_teamCollaborate"></a>
 
-* [😎 Компания в лицах](komanda/kompaniya-v-licakh.md)
+* [🎭 Роли](info\_teamCollaborate/descriptionRoles.md)
+* [🧠 Рабочий процесс](info\_teamCollaborate/descriptionWorkflow.md)
+* [😎 Компания в лицах](info\_teamCollaborate/descriptionMates.md)
 
 ## Стандарты <a href="#STANDARTS" id="STANDARTS"></a>
 
@@ -23,21 +25,21 @@
   * [Раздаточный материал](STANDARTS/02\_DESIGN/ForContragentsRelease.md)
 * [🏗 03. ПТО и строительство](STANDARTS/30\_BUILDINGEXEC.md)
 
-## Стэк технологий
+## Стэк технологий <a href="#info_technologyStack" id="info_technologyStack"></a>
 
-* [🌏 GIS](stek-tekhnologii/gis.md)
-* [🏘 BIM](stek-tekhnologii/bim.md)
-* [✨ CG](stek-tekhnologii/cg.md)
-* [📖 Вёрстка/публикация](stek-tekhnologii/vyorstka-publikaciya.md)
+* [🌏 GIS](info\_technologyStack/gis.md)
+* [🏘 BIM](info\_technologyStack/bim.md)
+* [✨ CG](info\_technologyStack/cg.md)
+* [📖 Вёрстка/публикация](info\_technologyStack/vyorstka-publikaciya.md)
 
-## Полезности
+## Полезности <a href="#info_common_guideLines" id="info_common_guideLines"></a>
 
-* [Справочная. Уголок ГИПа](poleznosti/spravochnaya.-ugolok-gipa.md)
-* [Информационные системы](poleznosti/informacionnye-sistemy/README.md)
-  * [Официальные и государственные](poleznosti/informacionnye-sistemy/oficialnye-i-gosudarstvennye.md)
-  * [Научные](poleznosti/informacionnye-sistemy/nauchnye.md)
-  * [Прикладные](poleznosti/informacionnye-sistemy/prikladnye.md)
-* [Библиотеки ассетов и компонентов ЦИМ](poleznosti/biblioteki-assetov-i-komponentov-cim.md)
-* [Каталог проектов](poleznosti/katalog-proektov/README.md)
-  * [Комплексные цифровые модели](poleznosti/katalog-proektov/kompleksnye-cifrovye-modeli.md)
-  * [Оформление. Графика. Визуал](poleznosti/katalog-proektov/oformlenie.-grafika.-vizual.md)
+* [Справочная. Уголок ГИПа](info\_common\_guideLines/spravochnaya.-ugolok-gipa.md)
+* [Информационные системы](info\_common\_guideLines/informacionnye-sistemy/README.md)
+  * [Официальные и государственные](info\_common\_guideLines/informacionnye-sistemy/oficialnye-i-gosudarstvennye.md)
+  * [Научные](info\_common\_guideLines/informacionnye-sistemy/nauchnye.md)
+  * [Прикладные](info\_common\_guideLines/informacionnye-sistemy/prikladnye.md)
+* [Библиотеки ассетов и компонентов ЦИМ](info\_common\_guideLines/biblioteki-assetov-i-komponentov-cim.md)
+* [Каталог проектов](info\_common\_guideLines/katalog-proektov/README.md)
+  * [Комплексные цифровые модели](info\_common\_guideLines/katalog-proektov/kompleksnye-cifrovye-modeli.md)
+  * [Оформление. Графика. Визуал](info\_common\_guideLines/katalog-proektov/oformlenie.-grafika.-vizual.md)
