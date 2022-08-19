@@ -34,6 +34,13 @@
 
 ## Полезности и инструкции <a href="#info_common_guideLines" id="info_common_guideLines"></a>
 
+* [Настройка окружения](info\_common\_guideLines/guideline\_Environments/README.md)
+  * [00. Windows. Общие настройки](info\_common\_guideLines/guideline\_Environments/setup\_OSWindows.md)
+  * [01. Совместная работа. Discord](info\_common\_guideLines/guideline\_Environments/setup\_COLLABDiscord.md)
+  * [02. Документооборот. Офис ПО](info\_common\_guideLines/guideline\_Environments/setup\_OFFICEDocSystem.md)
+  * [04. Компьютерная графика. Blender (общие для 3D-моделирования)](info\_common\_guideLines/guideline\_Environments/setup\_CGBlender.md)
+  * [04. Информационно Моделирование. Revit](info\_common\_guideLines/guideline\_Environments/setup\_IMRevit.md)
+  * [05. Автоматизация. Написание сценариев Python (общие настройки)](info\_common\_guideLines/guideline\_Environments/setup\_CODINGPythonScripting.md)
 * [Справочная. Уголок ГИПа](info\_common\_guideLines/guideline\_LawInformationData.md)
 * [Информационные системы](info\_common\_guideLines/guideline\_InformationSystemsApproved/README.md)
   * [Официальные и государственные](info\_common\_guideLines/guideline\_InformationSystemsApproved/official.md)
