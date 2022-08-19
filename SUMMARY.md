@@ -30,16 +30,17 @@
 * [🌏 GIS](info\_technologyStack/gis.md)
 * [🏘 BIM](info\_technologyStack/bim.md)
 * [✨ CG](info\_technologyStack/cg.md)
-* [📖 Вёрстка/публикация](info\_technologyStack/vyorstka-publikaciya.md)
+* [📖 Вёрстка/публикация](info\_technologyStack/publishing.md)
 
-## Полезности <a href="#info_common_guideLines" id="info_common_guideLines"></a>
+## Полезности и инструкции <a href="#info_common_guideLines" id="info_common_guideLines"></a>
 
-* [Справочная. Уголок ГИПа](info\_common\_guideLines/spravochnaya.-ugolok-gipa.md)
-* [Информационные системы](info\_common\_guideLines/informacionnye-sistemy/README.md)
-  * [Официальные и государственные](info\_common\_guideLines/informacionnye-sistemy/oficialnye-i-gosudarstvennye.md)
-  * [Научные](info\_common\_guideLines/informacionnye-sistemy/nauchnye.md)
-  * [Прикладные](info\_common\_guideLines/informacionnye-sistemy/prikladnye.md)
+* [Справочная. Уголок ГИПа](info\_common\_guideLines/guideline\_LawInformationData.md)
+* [Информационные системы](info\_common\_guideLines/guideline\_InformationSystemsApproved/README.md)
+  * [Официальные и государственные](info\_common\_guideLines/guideline\_InformationSystemsApproved/official.md)
+  * [Научные](info\_common\_guideLines/guideline\_InformationSystemsApproved/nauchnye.md)
+  * [Прикладные](info\_common\_guideLines/guideline\_InformationSystemsApproved/prikladnye.md)
 * [Библиотеки ассетов и компонентов ЦИМ](info\_common\_guideLines/biblioteki-assetov-i-komponentov-cim.md)
-* [Каталог проектов](info\_common\_guideLines/katalog-proektov/README.md)
-  * [Комплексные цифровые модели](info\_common\_guideLines/katalog-proektov/kompleksnye-cifrovye-modeli.md)
-  * [Оформление. Графика. Визуал](info\_common\_guideLines/katalog-proektov/oformlenie.-grafika.-vizual.md)
+* [Каталог проектов](info\_common\_guideLines/assets\_SamplesLibrary/README.md)
+  * [Комплексные цифровые модели](info\_common\_guideLines/assets\_SamplesLibrary/kompleksnye-cifrovye-modeli.md)
+  * [Оформление. Графика. Визуал](info\_common\_guideLines/assets\_SamplesLibrary/oformlenie.-grafika.-vizual.md)
+* [Именование репозитория Стандарта](info\_common\_guideLines/imenovanie-repozitoriya-standarta.md)
